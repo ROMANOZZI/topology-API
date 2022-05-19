@@ -1,0 +1,16 @@
+{
+  "name": "topolgy-api",
+  "version": "1.0.0",
+  "description": "\"an API for electronic topologies\"",
+  "main": "APP.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node app.js"
+    
+  },
+  "author": "Mohamed Salah",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
